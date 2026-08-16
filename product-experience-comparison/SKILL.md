@@ -1,6 +1,6 @@
 ---
 name: product-experience-comparison
-description: 基于真实消费者反馈，对不同产品的实际使用体验进行横向比较。
+description: 基于尽可能多且可比的真实消费者反馈，对不同产品的实际使用体验进行横向比较，并要求所有关键结论可回查。
 ---
 
 # 产品使用体验横向比较 Skill
