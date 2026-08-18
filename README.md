@@ -18,7 +18,7 @@
 - `product-experience-comparison`：不同产品消费者反馈横向对比
 
 其他日常工作
-- `meeting-summary`：会议纪要重点提炼
+- `meeting-summary`：会议纪要转写
 
 
 每个 Skill 保存在独立文件夹中的 `SKILL.md`。后续修改直接更新原文件，由 GitHub Commit 历史保留版本变化。
