@@ -10,7 +10,7 @@
 
 深入研究阶段
 - `company-history-research`：公司历史研究
-- `expert-interview-reading`：专家访谈纪要快速阅读与排序
+- `expert-interview-reading`：专家访谈纪要优先级排序
 - `quick-research-report-reader`：快速阅读研报
 
 跟踪
